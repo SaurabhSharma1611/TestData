@@ -1,0 +1,1593 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Fixed Header Column</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/freeze_table.css">
+<link rel="stylesheet" href="font-awesome-4.6.2/css/font-awesome.min.css">
+</head>
+<body>
+	<div class="table_block">
+		<div class="well">
+			<div class="grid_scope grid_panel">
+				<div class="grid_content_wrapper">
+			<!--	------------------######--------------		LEFT TABLE FIXED BLOCK		--------------######-----------------		-->	
+					<div class="pinned_left_grid_panel">
+						<div class="render_block">
+							
+							<!-- ###########################	LEFT PINNED HEADER BLOCK	########################## -->
+							
+							<div class="grid_header_block">
+								<div class="grid_top_panel">
+									<div class="grid_header_viewport left_header">
+										<div class="left_header_port grid_header_canvas">
+											<div class="grid_header_cell_wrapper">
+												<div class="grid_header_cell_row">
+													<div class="left_grid_ui_header_cell left_cell_1 grid_clearfix">
+														<div class="sortable_cell">
+															<div class="grid_cell_content">
+																<span class="cell_label">First Name</span>
+																<span class="sort_icon sort_invisible">
+																	<i class="fa" aria-hidden="true"></i>
+																</span>
+															</div>
+															<div class="filter_icon" data-node="1">
+																<i class="fa fa-bars" aria-hidden="true"></i>
+															</div>
+														</div>
+													</div>
+													<div class="left_grid_ui_header_cell left_cell_2 grid_clearfix">
+														<div class="sortable_cell">
+															<div class="grid_cell_content">
+																<span class="cell_label">Last Name</span>
+																<span class="sort_icon sort_invisible">
+																	<i class="fa" aria-hidden="true"></i>
+																</span>
+															</div>
+															<div class="filter_icon" data-node="2">
+																<i class="fa fa-bars" aria-hidden="true"></i>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<!-- ###############################	LEFT PINNED HEADER BLOCK ENDS	############################# -->
+							<!-- ###############################	LEFT PINNED BODY BLOCK	############################# -->
+							
+							<div class="left_header grid_left_body">
+								<div class="left_body_canvas left_header">
+									<div class="body-grid-row" data-rowID="left_rowID_1">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Alexander</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Johnson</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_2">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Michael</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Johnson</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_3">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Shane</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Waugh</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_4">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Tim</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Clarke</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_5">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Ross</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Bradmann</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_6">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Amira</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Kaul</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_7">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Shaun</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Pollack</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_8">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Chris</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Brown</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_9">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Claudia</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Johnson</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_10">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Xander</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Cage</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_11">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Alexander</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Taylor</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_12">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Taylor</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Lautner</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_13">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Shane</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Warne</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_14">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Rickey</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Martin</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="left_rowID_15">
+										<div class="left-row-isolate-scope">
+											<div class="body-grid-cell left_body_cell_1">
+												<div class="grid_cell_content">Zara</div>
+											</div>
+											<div class="body-grid-cell left_body_cell_2">
+												<div class="grid_cell_content">Khalifa</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<!-- ###############################	LEFT PINNED BODY BLOCK ENDS	############################# -->
+							
+						</div>
+					</div>
+			<!--	------------------######--------------		CENTER SCROLLABLE TABLE BLOCK		--------------######-----------------		-->		
+					<div class="grid_render_container">
+						
+						<!-- ###########################	CENTER SCROLL HEADER BLOCK	########################## -->
+						
+						<div class="grid_header_block">
+							<div class="grid_top_panel">
+								<div class="grid_header_viewport center_header">
+									<div class="grid_header_canvas center_header_port">
+										<div class="grid_header_cell_wrapper">
+											<div class="grid_header_cell_row">
+												<div class="center_grid_ui_header_cell grid_clearfix center_cell_1">
+													<div class="sortable_cell">
+														<div class="grid_cell_content">
+															<span class="cell_label">City</span>
+															<span class="sort_icon sort_invisible">
+																<i class="fa" aria-hidden="true"></i>
+															</span>
+														</div>
+														<div class="filter_icon" data-node="3">
+															<i class="fa fa-bars" aria-hidden="true"></i>
+														</div>
+													</div>
+												</div>
+												<div class="center_grid_ui_header_cell grid_clearfix center_cell_2">
+													<div class="sortable_cell">
+														<div class="grid_cell_content">
+															<span class="cell_label">State</span>
+															<span class="sort_icon sort_invisible">
+																<i class="fa" aria-hidden="true"></i>
+															</span>
+														</div>
+														<div class="filter_icon" data-node="4">
+															<i class="fa fa-bars" aria-hidden="true"></i>
+														</div>
+													</div>
+												</div>
+												<div class="center_grid_ui_header_cell grid_clearfix center_cell_3">
+													<div class="sortable_cell">
+														<div class="grid_cell_content">
+															<span class="cell_label">Age</span>
+															<span class="sort_icon sort_invisible">
+																<i class="fa" aria-hidden="true"></i>
+															</span>
+														</div>
+														<div class="filter_icon" data-node="5">
+															<i class="fa fa-bars" aria-hidden="true"></i>
+														</div>
+													</div>
+												</div>
+												<div class="center_grid_ui_header_cell grid_clearfix center_cell_4">
+													<div class="sortable_cell">
+														<div class="grid_cell_content">
+															<span class="cell_label">Gender</span>
+															<span class="sort_icon sort_invisible">
+																<i class="fa" aria-hidden="true"></i>
+															</span>
+														</div>
+														<div class="filter_icon" data-node="6">
+															<i class="fa fa-bars" aria-hidden="true"></i>
+														</div>
+													</div>
+												</div>
+												<div class="center_grid_ui_header_cell grid_clearfix center_cell_5">
+													<div class="sortable_cell">
+														<div class="grid_cell_content">
+															<span class="cell_label">Account Number</span>
+															<span class="sort_icon sort_invisible">
+																<i class="fa" aria-hidden="true"></i>
+															</span>
+														</div>
+														<div class="filter_icon" data-node="7">
+															<i class="fa fa-bars" aria-hidden="true"></i>
+														</div>
+													</div>
+												</div>
+												<div class="center_grid_ui_header_cell grid_clearfix center_cell_6">
+													<div class="sortable_cell">
+														<div class="grid_cell_content">
+															<span class="cell_label">Bank Name</span>
+															<span class="sort_icon sort_invisible">
+																<i class="fa" aria-hidden="true"></i>
+															</span>
+														</div>
+														<div class="filter_icon" data-node="8">
+															<i class="fa fa-bars" aria-hidden="true"></i>
+														</div>
+													</div>
+												</div>
+												<div class="center_grid_ui_header_cell grid_clearfix center_cell_7">
+													<div class="sortable_cell">
+														<div class="grid_cell_content">
+															<span class="cell_label">Education</span>
+															<span class="sort_icon sort_invisible">
+																<i class="fa" aria-hidden="true"></i>
+															</span>
+														</div>
+														<div class="filter_icon" data-node="9">
+															<i class="fa fa-bars" aria-hidden="true"></i>
+														</div>
+													</div>
+												</div>
+												<div class="center_grid_ui_header_cell grid_clearfix center_cell_8">
+													<div class="sortable_cell">
+														<div class="grid_cell_content">
+															<span class="cell_label">Profession</span>
+															<span class="sort_icon sort_invisible">
+																<i class="fa" aria-hidden="true"></i>
+															</span>
+														</div>
+														<div class="filter_icon" data-node="10">
+															<i class="fa fa-bars" aria-hidden="true"></i>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<!-- ###########################	CENTER SCROLL HEADER BLOCK ENDS	############################# -->
+						<!-- ###########################	CENTER BODY  BLOCK	############################# -->
+						
+						<div class="center_header grid_center_body">
+							<div class="center_header_port center_body_canvas">
+								<div class="body-grid-row" data-rowID="center_rowID_1">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Jaipur</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Rajasthan</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">31</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">M</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">1673167366766</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">SBBJ</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (B.Tech)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Java Developer</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_2">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Ajmer</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Rajasthan</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">21</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">M</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">16735667866766</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">SBI</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (B.Tech)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Java Developer</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_3">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Ujjain</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Madhya Pradesh</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">41</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">M</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">3667667867678</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">ICICI</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (BCA)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">System Administrator</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_4">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Agra</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Uttar Pradesh</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">26</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">F</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">326781256556</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">CBI</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Post Graduate (MBA)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">HR Manager</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_5">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Jaipur</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Rajasthan</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">29</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">F</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">1983337378748267786</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">PNB</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (B.Tech)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">IOS Developer</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_6">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">New York</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">USA</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">31</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">M</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">67825656577</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">Bank of Commerce</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (MS)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">System Engineer</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_7">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Berlin</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Germany</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">34</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">F</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">1673167366766</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">Swizz Bank</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Post Graduate (B.Arch)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Architect</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_8">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Jammu</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">J&K</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">32</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">M</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">3278267668787</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">J&K Bank</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (BA)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Assistant Manager</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_9">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Jaipur</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Rajasthan</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">47</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">F</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">108937384787878</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">PNB</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Post Graduate (MA)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">General Manager</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_10">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Alwar</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Rajasthan</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">36</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">F</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">1637236736276</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">SBBJ</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (B.Tech)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Java Developer</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_11">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Jaipur</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Rajasthan</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">31</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">M</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">332789377823784</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">SBI</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (B.Arch)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Architect</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_12">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Californai</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">USA</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">37</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">M</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">321783788787</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">SBBJ</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (LLB)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Law Consultant</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_13">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Udaipur</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Rajasthan</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">31</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">M</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">562678676</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">HDFC</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (BA)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Tourist Accomodator</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_14">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Agra</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Uttar Pradesh</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">25</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">F</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">10133898988</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">Axis Bank</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Post Graduate (MBA)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Assistant Manager</div>
+										</div>
+									</div>
+								</div>
+								<div class="body-grid-row" data-rowID="center_rowID_15">
+									<div class="center-row-isolate-scope">
+										<div class="body-grid-cell center_body_cell_1">
+											<div class="grid_cell_content">Jaipur</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_2">
+											<div class="grid_cell_content">Rajasthan</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_3">
+											<div class="grid_cell_content">31</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_4">
+											<div class="grid_cell_content">M</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_5">
+											<div class="grid_cell_content">1673167366766</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_6">
+											<div class="grid_cell_content">SBBJ</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_7">
+											<div class="grid_cell_content">Graduate (B.Tech)</div>
+										</div>
+										<div class="body-grid-cell center_body_cell_8">
+											<div class="grid_cell_content">Java Developer</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<!-- ###########################	CENTER BODY BLOCK ENDS	############################# -->
+						
+					</div>
+			<!--	------------------######--------------		RIGHT TABLE FIXED BLOCK		--------------######-----------------		-->		
+					<div class="pinned_right_grid_panel">
+						<div class="render_block">
+							
+							<!-- ###############################	RIGHT PINNED HEADER BLOCK 	############################# -->
+							
+							<div class="grid_header_block">
+								<div class="grid_top_panel">
+									<div class="grid_header_viewport right_header">
+										<div class="right_header_port grid_header_canvas">
+											<div class="grid_header_cell_wrapper">
+												<div class="grid_header_cell_row">
+													<div class="right_grid_ui_header_cell right_cell_1 grid_clearfix">
+														<div class="sortable_cell">
+															<div class="grid_cell_content">
+																<span class="cell_label">Contact</span>
+																<span class="sort_icon sort_invisible">
+																	<i class="fa" aria-hidden="true"></i>
+																</span>
+															</div>
+															<div class="filter_icon" data-node="11">
+																<i class="fa fa-bars" aria-hidden="true"></i>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<!-- ###############################	RIGHT PINNED HEADER BLOCK ENDS	############################# -->
+							<!-- ###############################	RIGHT PINNED HEADER BLOCK 	############################# -->
+							
+							<div class="right_header grid_right_body">
+								<div class="right_body_canvas right_header">
+									<div class="body-grid-row" data-rowID="right_rowID_1">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+1 38736788</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_2">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+21 745336788</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_3">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+91 7367378728</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_4">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+91 83787378</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_5">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+968 90367867</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_6">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+32 934322999</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_7">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+1 67278927</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_8">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+91 8736788373</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_9">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+2 8988989989</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_10">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+101 2378926778</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_11">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+1 736782338</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_12">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+91 9299298989</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_13">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+91 6780878988</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_14">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+1 88899778</div>
+											</div>
+										</div>
+									</div>
+									<div class="body-grid-row" data-rowID="right_rowID_15">
+										<div class="right-row-isolate-scope">
+											<div class="body-grid-cell right_body_cell_1">
+												<div class="grid_cell_content">+91 8836785678</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<!-- ###############################	LEFT PINNED BODY BLOCK ENDS	############################# -->
+							
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="grid_filter_menu">
+		<ul class="grid_menu_item">
+			<li>
+				link 1
+			</li>
+			<li>
+				link 2
+			</li>
+			<li>
+				link 3
+			</li>
+			<li>
+				link 4
+			</li>
+			<li>
+				link 5
+			</li>
+			<li>
+				link 6
+			</li>
+		</ul>
+	</div>
+	
+	<script type="text/javascript" src="js/jquery-1.12.3.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			var containerWidth = $(".grid_content_wrapper").css("width");
+			console.log(containerWidth);
+			var leftPaneWidth = $(".left_header").css("width");
+			console.log(leftPaneWidth);
+			var rightPaneWidth = $(".right_header").css("width");
+			console.log(rightPaneWidth);
+			
+			var centerBodyWidth = parseInt(containerWidth) - parseInt(leftPaneWidth) - parseInt(rightPaneWidth);
+			console.log(centerBodyWidth);
+			$(".center_header").css("width", centerBodyWidth);
+			
+			var node_value = 0;
+			
+			$("div.filter_icon").click(function(e){
+				var attribute = $(this).attr("data-node");
+				if(node_value != attribute)
+				{
+					if($(".grid_filter_menu").css("display")=="block")
+					{
+						console.log("X	"+e.pageX+"	Y	"+e.pageY);
+						$(".grid_filter_menu").hide();
+						$(".grid_filter_menu").show(500);
+						$(".grid_filter_menu").offset({left: e.pageX-150, top: e.pageY+15});
+					}
+					else
+					{
+						console.log("X	"+e.pageX+"	Y	"+e.pageY);
+						$(".grid_filter_menu").show(500);
+						$(".grid_filter_menu").offset({left: e.pageX-150, top: e.pageY+15});
+					}
+					node_value = attribute;
+				}
+				else
+				{
+					if($(".grid_filter_menu").css("display")=="block")
+					{
+						$(".grid_filter_menu").hide(500);
+					}
+					else
+					{
+						console.log("X	"+e.pageX+"	Y	"+e.pageY);
+						$(".grid_filter_menu").show(500);
+						$(".grid_filter_menu").offset({left: e.pageX-150, top: e.pageY+15});
+					}
+				}
+			});
+			
+/* 			$(document).mouseup(function(event)
+			{
+				if(!$(".grid_filter_menu").is(event.target) && $(".grid_filter_menu").has(event.target).length===0)
+				{
+					if($(".grid_filter_menu").css("display")=="block")
+					{
+						$(".grid_filter_menu").hide(500);
+					}
+				}
+			}); */
+		});
+	</script>
+	
+	<script>
+		(function(){
+			var target_left = $(".grid_left_body");
+			var target_center = $(".grid_center_body");
+			$(".grid_right_body").scroll(function(){
+				target_left.prop("scrollTop", this.scrollTop);
+				target_center.prop("scrollTop", this.scrollTop);
+			});
+		})();
+				
+		(function(){
+			var target = $(".grid_header_viewport.center_header");
+			$(".grid_center_body").scroll(function(){
+				target.prop("scrollLeft", this.scrollLeft);
+			});
+		})();
+		
+		$(".grid_center_body").mouseover(function(event){
+			console.log("STEP1");
+			event.preventDefault();
+			$(".grid_center_body").scroll(function(event){
+				console.log("STEP2");
+				scrollGrid(event);
+			});
+		});
+		$(".grid_left_body").mouseover(function(event){
+			console.log("STEP3");
+			event.preventDefault();
+			$(".grid_left_body").scroll(function(event){
+				console.log("STEP4");
+				scrollGrid(event);
+			});
+		});
+		
+		function scrollGrid(event)
+		{
+			console.log("STEP5");
+			event.preventDefault();
+			var target_left = $(".grid_left_body");
+			var target_center = $(".grid_center_body");
+			$(".grid_right_body").scroll(function(){
+				target_left.prop("scrollTop", this.scrollTop);
+				target_center.prop("scrollTop", this.scrollTop);
+			});
+		}
+		
+		/* (function(){
+			var target_center = $(".grid_center_body");
+			var target_right = $(".grid_right_body");
+			$(".grid_left_body").scroll(function(){
+				target_right.prop("scrollTop", this.scrollTop);
+				target_center.prop("scrollTop", this.scrollTop);
+			});
+		})();
+		(function(){
+			var target_left = $(".grid_left_body");
+			var target_right = $(".grid_right_body");
+			$(".grid_center_body").scroll(function(){
+				target_left.prop("scrollTop", this.scrollTop);
+				target_right.prop("scrollTop", this.scrollTop);
+			});
+		})(); */
+	</script>
+	
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<---------------------Css--------------------->
+
+
+
+.table_block
+{
+	width: 94%;
+	height: 400px;
+	margin-left: 3%;
+	padding: 10px 5px;
+	margin-top: 10px;
+	background-color: #e1e1e1;
+	border-radius: 3px;
+}
+
+.grid_scope
+{
+	width: 100%;
+	height: 340px;
+}
+
+.grid_panel
+{
+	border: 1px solid #d4d4d4;
+	box-sizing: content-box;
+	border-radius: 0px;
+	transform: translateZ(0);
+}
+
+.grid_content_wrapper
+{
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.pinned_left_grid_panel
+{
+	float: left;
+	left: 0;
+	position: absolute;
+	display: inline;
+	top: 0;
+	width: 120px;
+}
+
+.grid_render_container
+{
+	margin-left: 250px;						/*	---Subject to change with change in column---	*/
+	margin-right: 150px;					/*	---Subject to change with change in column---	*/
+	position: inherit;
+	border-radius: 0px;
+	background-clip: padding-box;
+}
+
+.pinned_right_grid_panel
+{
+	float: right;
+	right: 0;
+	position: absolute;
+	display: inline;
+	top: 0;
+	width: 150px;
+}
+
+.render_block
+{
+	margin-left: 0;
+	margin-right: 0;
+	position: inherit;
+	border-radius: 0px;
+	background-clip: padding-box;
+}
+
+.grid_header_block
+{
+	border-bottom: 1px solid #d4d4d4;
+	box-sizing: border-box;
+}
+
+.grid_top_panel
+{
+	position: relative;
+	overflow: hidden;
+	font-weight: bold;
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #ffffff));
+	border-radius: 0px;
+	background-clip: padding-box;
+}
+
+.left_header
+{
+	width: 250px;					/*	---Subject to change with change in column---	*/
+}
+.grid_header_viewport
+{
+	overflow: hidden;
+}
+
+.grid_header_canvas
+{
+	height: inherit;
+}
+.left_header_port
+{
+	width: 260px;					/*	---Subject to change with change in column---	*/
+}
+
+.left_header_canvas::before
+{
+	content: '';
+	display: table;
+	line-height: 0;
+}
+.left_header_canvas::after
+{
+	content: '';
+	display: table;
+	line-height: 0;
+	clear: both;
+}
+
+.grid_header_cell_wrapper
+{
+	position: relative;
+    display: table;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.grid_header_cell_row
+{
+	display: table-row;
+	position: relative;
+}
+
+.left_grid_ui_header_cell
+{
+	position: relative;
+	box-sizing: border-box;
+	background-color: inherit;
+	border-right: 1px solid #d4d4d4;
+	display: table-cell;
+	user-select: none;
+	width: 0;
+}
+
+.left_grid_ui_header_cell:last-child
+{
+	box-sizing: border-box;
+	border-right: 1px solid #aeaeae;
+}
+
+.left_grid_ui_header_cell:first-child
+{
+	border-left: 0;
+}
+
+.left_cell_1
+{
+	min-width: 120px;					/*	---Subject to change with change in column---	*/
+	max-width: 120px;					/*	---Subject to change with change in column---	*/
+}
+.left_cell_2
+{
+	min-width: 130px;					/*	---Subject to change with change in column---	*/
+	max-width: 130px;					/*	---Subject to change with change in column---	*/
+}
+
+.grid_clearfix::before, .grid_clearfix::after
+{
+	content: '';
+	display: table;
+}
+
+.sortable_cell
+{
+	cursor: pointer;
+}
+
+.grid_cell_content
+{
+	padding: 5px;
+	box-sizing: border-box;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	height: 100%;
+}
+
+.sort_invisible
+{
+	visibility: hidden
+}
+.sort_visible
+{
+	visibility: visible;
+}
+
+.filter_icon
+{
+	position: absolute;
+	top: 4px;
+	right: 2px;
+}
+
+.right_header
+{
+	width: 150px;					/*	---Subject to change with change in column---	*/
+}
+
+.right_header_port
+{
+	width: 160px;					/*	---Subject to change with change in column---	*/
+}
+
+.right_grid_ui_header_cell
+{
+	position: relative;
+	box-sizing: border-box;
+	background-color: inherit;
+	border-right: 1px solid #d4d4d4;
+	display: table-cell;
+	user-select: none;
+	width: 0;
+}
+
+.right_grid_ui_header_cell:last-child
+{
+	border-right: 0;
+}
+.right_grid_ui_header_cell:first-child
+{
+	border-left: 1px solid #aeaeae;
+	box-sizing: border-box;
+}
+
+.right_cell_1
+{
+	min-width: 150px;					/*	---Subject to change with change in column---	*/
+	max-width: 150px;					/*	---Subject to change with change in column---	*/
+}
+
+.center_header_port
+{
+	width: 1350px;					/*	---Subject to change with change in column---	*/
+}
+
+.center_grid_ui_header_cell
+{
+	position: relative;
+	box-sizing: border-box;
+	background-color: inherit;
+	border-right: 1px solid;
+	border-color: #d4d4d4;
+	display: table-cell;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	width: 0;
+}
+
+.center_cell_1
+{
+	min-width: 150px;					/*	---Subject to change with change in column---	*/
+	max-width: 150px;					/*	---Subject to change with change in column---	*/
+}
+.center_cell_2
+{
+	min-width: 200px;					/*	---Subject to change with change in column---	*/
+	max-width: 200px;					/*	---Subject to change with change in column---	*/
+}
+.center_cell_3
+{
+	min-width: 100px;					/*	---Subject to change with change in column---	*/
+	max-width: 100px;					/*	---Subject to change with change in column---	*/
+}
+.center_cell_4
+{
+	min-width: 100px;					/*	---Subject to change with change in column---	*/
+	max-width: 100px;					/*	---Subject to change with change in column---	*/
+}
+.center_cell_5
+{
+	min-width: 250px;					/*	---Subject to change with change in column---	*/
+	max-width: 250px;					/*	---Subject to change with change in column---	*/
+}
+.center_cell_6
+{
+	min-width: 150px;					/*	---Subject to change with change in column---	*/
+	max-width: 150px;					/*	---Subject to change with change in column---	*/
+}
+.center_cell_7
+{
+	min-width: 200px;					/*	---Subject to change with change in column---	*/
+	max-width: 200px;					/*	---Subject to change with change in column---	*/
+}
+.center_cell_8
+{
+	min-width: 200px;					/*	---Subject to change with change in column---	*/
+	max-width: 200px;					/*	---Subject to change with change in column---	*/
+}
+
+.grid_filter_menu
+{
+	width: 170px;					/*	---As per user requirement and content of block---	*/
+	height: auto;
+	border: 1px solid #d9d9d9;
+	background-color: #f8f8f8;
+	box-shadow: 1px 5px 10px #c1c1c1;
+	position: absolute;
+	border-radius: 3px;
+	display: none;
+}
+
+.grid_menu_item
+{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-size: 15px;
+}
+.grid_menu_item::before
+{
+	content: '';
+	position: absolute;
+	top: -10px;
+	transform: rotate(45deg);
+	right: 10px;
+	border: 10px solid #f8f8f8;
+	box-shadow: 1px 1px 8px #6b6b6b;
+}
+.grid_menu_item::after
+{
+	content: '';
+    position: absolute;
+    top: -9px;
+    border: 14px solid #f8f8f8;
+	right: 6px;
+	transform: rotate(45deg);
+}
+
+.grid_menu_item li
+{
+	border-bottom: 1px solid #ddd;
+	padding: 5px 8px;
+	padding-left: 10px;
+}
+.grid_menu_item li:last-child
+{
+	border-bottom: none;
+}
+.grid_left_body
+{
+	min-height: 20px;
+	position: relative;
+	overflow: hidden;
+	height: 292px;					/*	---Subject to change with change in column---	*/
+}
+.left_body_canvas
+{
+	height: 450px;				/*	---Subject to change with change in column---	*/
+	position: relative;
+	padding-top: 1px;
+}
+.body-grid-row
+{
+	height: 30px;
+	clear: both;
+}
+.body-grid-cell
+{
+	overflow: hidden;
+	float: left;
+	background-color: inherit;
+	border-right: 1px solid #d4d4d4;
+	box-sizing: border-box;
+	height: 30px;
+}
+.body-grid-row:nth-child(odd) .body-grid-cell
+{
+	background-color: #FDFDFD;
+}
+.body-grid-row:nth-child(even) .body-grid-cell
+{
+	background-color: #F3F3F3;
+}
+.left_body_cell_1
+{
+	min-width: 120px;					/*	---Subject to change with change in column---	*/
+	max-width: 120px;					/*	---Subject to change with change in column---	*/
+}
+.left_body_cell_2
+{
+	min-width: 130px;					/*	---Subject to change with change in column---	*/
+	max-width: 130px;					/*	---Subject to change with change in column---	*/
+}
+.left-row-isolate-scope .body-grid-cell:last-child
+{
+	box-sizing: border-box;
+	border-right: 1px solid #aeaeae;
+}
+.grid_right_body
+{
+	min-width: 20px;
+	position: relative;
+	height: 292px;					/*	---Subject to change with change in column---	*/
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.right_body_canvas
+{
+	height: 450px;					/*	---Subject to change with change in column---	*/
+	position: relative;
+	padding-top: 1px;
+}
+.right_body_cell_1
+{
+	min-width: 150px;					/*	---Subject to change with change in column---	*/
+	max-width: 150px;					/*	---Subject to change with change in column---	*/
+}
+.right-row-isolate-scope .body-grid-cell:first-child
+{
+	box-sizing: border-box;
+	border-left: 1px solid #aeaeae; 
+}
+.grid_center_body
+{
+	height: 309px;					/*	---Subject to change with change in column---	*/
+	min-height: 20px;
+	position: relative;
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+.center_body_canvas
+{
+	height: 450px;
+	position: relative;
+	padding-top: 1px;
+}
+.center_body_cell_1
+{
+	min-width: 150px;					/*	---Subject to change with change in column---	*/
+	max-width: 150px;					/*	---Subject to change with change in column---	*/
+}
+.center_body_cell_2
+{
+	min-width: 200px;					/*	---Subject to change with change in column---	*/
+	max-width: 200px;					/*	---Subject to change with change in column---	*/
+}
+.center_body_cell_3
+{
+	min-width: 100px;					/*	---Subject to change with change in column---	*/
+	max-width: 100px;					/*	---Subject to change with change in column---	*/
+}
+.center_body_cell_4
+{
+	min-width: 100px;					/*	---Subject to change with change in column---	*/
+	max-width: 100px;					/*	---Subject to change with change in column---	*/
+}
+.center_body_cell_5
+{
+	min-width: 250px;					/*	---Subject to change with change in column---	*/
+	max-width: 250px;					/*	---Subject to change with change in column---	*/
+}
+.center_body_cell_6
+{
+	min-width: 150px;					/*	---Subject to change with change in column---	*/
+	max-width: 150px;					/*	---Subject to change with change in column---	*/
+}
+.center_body_cell_7
+{
+	min-width: 200px;					/*	---Subject to change with change in column---	*/
+	max-width: 200px;					/*	---Subject to change with change in column---	*/
+}
+.center_body_cell_8
+{
+	min-width: 200px;					/*	---Subject to change with change in column---	*/
+	max-width: 200px;					/*	---Subject to change with change in column---	*/
+}
+.center_grid_ui_header_cell:last-child
+{
+	border-right: 0;
+}
+.center-row-isolate-scope .body-grid-cell:last-child
+{
+	border-right: 0;
+}
